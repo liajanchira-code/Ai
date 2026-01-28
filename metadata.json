@@ -1,0 +1,7 @@
+{
+  "name": "brac_trading - Advanced Investment Portal",
+  "description": "A high-fidelity financial investment platform featuring real-time balance tracking, premium ATM-style UI, and high-yield claim systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
