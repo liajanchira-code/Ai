@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import { Timer, CheckCircle2, Zap, TrendingUp, Calendar, ArrowUp } from 'lucide-react';
 import { Investment } from '../types';
